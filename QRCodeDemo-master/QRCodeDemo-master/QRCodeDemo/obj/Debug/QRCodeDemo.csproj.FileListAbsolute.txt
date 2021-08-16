@@ -1,0 +1,35 @@
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.exe.config
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\QRCoder.dll
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\bin\Debug\UnityEngine.dll
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csprojResolveAssemblyReference.cache
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.Form1.resources
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.Cache
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.exe
+c:\users\salaar husyn\documents\visual studio 2015\Projects\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.Form1.resources
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.exe.config
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCoder.dll
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CopyComplete
+C:\Users\DELL\Desktop\codeinpc.comQRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.exe
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.exe.config
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCoder.dll
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.AssemblyReference.cache
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.Form1.resources
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.cache
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CoreCompileInputs.cache
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CopyComplete
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.exe
+F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
