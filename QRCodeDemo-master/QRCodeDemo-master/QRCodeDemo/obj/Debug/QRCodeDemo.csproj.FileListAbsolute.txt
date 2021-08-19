@@ -33,3 +33,17 @@ F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCo
 F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CopyComplete
 F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.exe
 F:\My mini project\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csprojAssemblyReference.cache
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.Form1.resources
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.cache
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CoreCompileInputs.cache
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.exe.config
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCoder.dll
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CopyComplete
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.exe
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\Newtonsoft.Json.dll
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\Newtonsoft.Json.xml
