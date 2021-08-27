@@ -47,3 +47,15 @@ D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDe
 D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.exe
 D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\Newtonsoft.Json.dll
 D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.AssemblyReference.cache
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.Form1.resources
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.cache
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CoreCompileInputs.cache
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.exe.config
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Debug\QRCoder.dll
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CopyComplete
+D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Debug\QRCodeDemo.exe

@@ -141,7 +141,7 @@ namespace QRCodeDemo
 
             System.Data.OleDb.OleDbConnection conn = new System.Data.OleDb.OleDbConnection();
             conn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;" +
-              @"Data source= D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\onedata.accdb";
+              @"Data source= D:\Jeya\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\onedata.accdb";
 
             conn.Open();
 
