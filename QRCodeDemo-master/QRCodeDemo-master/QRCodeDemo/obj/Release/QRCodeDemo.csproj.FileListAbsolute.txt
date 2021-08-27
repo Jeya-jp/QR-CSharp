@@ -1,0 +1,14 @@
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Release\QRCodeDemo.exe.config
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Release\QRCodeDemo.exe
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Release\QRCodeDemo.pdb
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Release\Newtonsoft.Json.dll
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Release\QRCoder.dll
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\bin\Release\Newtonsoft.Json.xml
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Release\QRCodeDemo.csprojAssemblyReference.cache
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Release\QRCodeDemo.Form1.resources
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Release\QRCodeDemo.Properties.Resources.resources
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Release\QRCodeDemo.csproj.GenerateResource.cache
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Release\QRCodeDemo.csproj.CoreCompileInputs.cache
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Release\QRCodeDemo.csproj.CopyComplete
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Release\QRCodeDemo.exe
+D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\QRCodeDemo\obj\Release\QRCodeDemo.pdb

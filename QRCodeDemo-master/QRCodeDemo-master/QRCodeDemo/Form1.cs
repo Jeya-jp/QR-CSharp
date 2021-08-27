@@ -10,11 +10,33 @@ namespace QRCodeDemo
         {
             InitializeComponent();
         }
-
-        async private void button1_Click(object sender, EventArgs e)
+      
+         private void button1_Click(object sender, EventArgs e)
         {
-            // https://qr-attadance.000webhostapp.com/index.html?rollno=19mca889&id=mwZOKJ2lmx
+           
             QRCoder.QRCodeGenerator QG = new QRCoder.QRCodeGenerator();
+            var uri = "https://qr-attadance.000webhostapp.com/index.html?rollno=" + textBox1.Text + "&id=" + textBox2.Text;
+            //roll number
+            var MyData = QG.CreateQrCode(uri, QRCoder.QRCodeGenerator.ECCLevel.H);
+
+            var code = new QRCoder.QRCode(MyData);
+            pictureBox1.Image = code.GetGraphic(100);
+
+
+
+
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+          
 
             string[] array1 = new string[]
                {
@@ -117,54 +139,81 @@ namespace QRCodeDemo
                        "KNdRB7oE6n"
                };
 
-            Random random = new Random();
-            int index = random.Next(array1.Length);
-
-            //var id = array1[index];
-            var id = "Xusm4xQHZ1";
-
-
-            DateTime dateTime = DateTime.UtcNow.Date;
-            var date = dateTime.ToString("dd/MM/yyyy");
-            
-
             System.Data.OleDb.OleDbConnection conn = new System.Data.OleDb.OleDbConnection();
             conn.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;" +
               @"Data source= D:\git testing\get\c# app\QR-CSharp\QRCodeDemo-master\QRCodeDemo-master\onedata.accdb";
 
-            try
+            conn.Open();
+
+            DateTime dateTime = DateTime.UtcNow.Date;
+            var date = dateTime.ToString("dd");
+
+
+
+
+
+            int flag=0;
+            String s = "SELECT * FROM details";
+
+            OleDbCommand ss = new OleDbCommand(s, conn);
+            var r = ss.ExecuteReader();
+
+            while (r.Read())
             {
-                conn.Open();
-                String my_querry = "SELECT ID,today FROM details WHERE ID = '" + id + ", today = '" + date + "'";
-                OleDbCommand cmd = new OleDbCommand(my_querry, conn);
-                using (OleDbDataReader reader = cmd.ExecuteReader())
-                {                
-                    while (reader.Read())
-                    {
-                        MessageBox.Show("have");
-                    }
+               
+                if(r["today"].ToString() == date.ToString())
+                {
+
+                    flag = flag + 1;
+                }
+
+            }
+
+            if (flag != 0)
+            {
+                String show = "SELECT * FROM details";
+                OleDbCommand sshow = new OleDbCommand(show, conn);
+                var red = sshow.ExecuteReader();
+                while (red.Read())
+                {
+
+                    textBox2.Text = red["ID"].ToString() + "&zdx=" + date;
+                    textBox2.Hide();
+
+
+
                 }
             }
-            catch (Exception ex)
+            else
             {
-                //conn.Open();
+                //create
+
+
+
+                Random random = new Random();
+                int index = random.Next(array1.Length);
+                var id = array1[index];
+
                 String my_querry = "INSERT INTO details(ID,today)VALUES('" + id + "','" + date + "')";
 
                 OleDbCommand cmd = new OleDbCommand(my_querry, conn);
                 cmd.ExecuteNonQuery();
-                MessageBox.Show("created");
+                String show = "SELECT * FROM details";
+                OleDbCommand sshow = new OleDbCommand(show, conn);
+                var red = sshow.ExecuteReader();
+                while (red.Read())
+                {
+
+                    textBox2.Text = red["ID"].ToString() +"&zdx=" + date; ;
+                    textBox2.Hide();
+
+
+                }
+
             }
 
-        }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
+                conn.Close();
         }
     }
 }
